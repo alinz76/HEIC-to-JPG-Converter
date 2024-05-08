@@ -1,11 +1,10 @@
 # HEIC-to-JPG-Converter   
-This is a Python script which cpnverts HEIC to JPG Format.   
-Requirements:   
-1.Python3   
-Modules listed below:   
-1.PySimpleGUI Module    
-2.PIL Module   
-3.pillow_heif Module   
-After installing requirements, you can simply run the scipt and use it.   
-
-
+This is a Python script which cpnverts HEIC image format to JPG Format.<br /><br />
+_Requirements_:   
+- Python3 <br />
+  also python modules listed below:<br />
+  - PySimpleGUI Module   
+  * PIL Module   
+  + pillow_heif Module
+<br />
+After installing requirements, you can simply run the scipt and use it.🙂
