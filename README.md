@@ -1,4 +1,4 @@
-# HEIC-to-JPG-Converter   
+# HEIC format to JPG Converter   
 This is a Python script which cpnverts HEIC image format to JPG Format.<br /><br />
 _Requirements_:   
 - Python3 <br />
